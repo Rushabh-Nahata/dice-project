@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(69, 62, 62);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+    font-size:4rem;
+    color:rgb(16, 231, 120);
+    font-family: 'Sacramento', cursive;
+}
+h3{
+    color: azure;
+    font-size:2rem;
+}
+
+.roll{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+}
+
+
+.btn{
+    margin: 30px;
+width: 200px;
+padding: 20px;
+}
+.add{
+    font-size:30px;
+    color:rgb(217, 211, 211);
+}
+
+.one{
+    align-items: center;
+}
